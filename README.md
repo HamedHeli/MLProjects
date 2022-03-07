@@ -9,4 +9,4 @@ Here, I am describing the Machine Learning (ML) projects that I have done. The p
 
 :computer_mouse:[Predicting Advertising Clicks (Logistic Regression)](https://github.com/HamedHeli/MLProjects/blob/6dc829c39f345fb71c509e6f101739c499058641/Logistic%20Regression/Advertising.ipynb): 
 
-In this project, I make a logistic model for predicting whether or not a particular internet user clicked on an advertisement based off the features of that user. I trained the model by using 40% of the population and evaluate the model perfromance by calculating confusion matrix.
+In this project, I make a logistic model for predicting whether or not a particular internet user clicked on an advertisement based off the features of that user. The user's features include age, average income of their living area, the time they spend on internet, and the time they spent on the site. I trained the model by using 40% of the population and evaluate the model perfromance by calculating confusion matrix.

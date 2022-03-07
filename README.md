@@ -1,4 +1,4 @@
-![alt text](PythonLogo.png)
+![alt text](Scikit_learn_logo.png)
 
 # Machine Learning Projects
 Here, I am describing some of the python projects that I have done. The projects have been performed inspired by the courses that I took or my personal intersts. 

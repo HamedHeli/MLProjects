@@ -10,3 +10,14 @@ Here, I am describing the Machine Learning (ML) projects that I have done. The p
 :computer_mouse:[Predicting Advertising Clicks (Logistic Regression)](https://github.com/HamedHeli/MLProjects/blob/6dc829c39f345fb71c509e6f101739c499058641/Logistic%20Regression/Advertising.ipynb): 
 
 In this project, I make a logistic model for predicting whether or not a particular internet user clicked on an advertisement based off the features of that user. The user's features include age, average income of their living area, the time they spend on internet, and the time they spent on the site. I trained the model by using 40% of the population and evaluate the model perfromance by calculating confusion matrix.
+
+
+:dark_sunglasses: [Classifying Anonymized Dataset (KNN Classification)](https://github.com/HamedHeli/MLProjects/blob/6d9ea3fd51c759f83d40a6ba02f18971aad0aaaf/KNN%20Classification/K%20Nearest%20Neighbors.ipynb):
+
+I have been given a classified data set from a company. They've hidden the feature column names but have given you the data and the target classes. I try to use KNN to create a model that directly predicts a class for a new data point based off of the features.
+
+
+:moneybag: [Predicting Loan Paid Back (Decision Tree and Random Forest Classification)](https://github.com/HamedHeli/MLProjects/blob/6d9ea3fd51c759f83d40a6ba02f18971aad0aaaf/Decision%20Tree%20and%20Random%20Forest%20Classification/Ensemble%20Decision%20Trees%20(Random%20Forest).ipynb):
+
+In this project, I will be exploring publicly available data from [LendingClub.com](https://www.lendingclub.com/). Lending Club connects people who need money (borrowers) with people who have money (investors). Hopefully, as an investor you would want to invest in people who showed a profile of having a high probability of paying you back. I will try to create a model that will help predict this.
+
